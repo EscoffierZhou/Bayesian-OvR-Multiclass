@@ -2,7 +2,12 @@
 
 **Machine learning homework by a Sophomore in SDUFE**
 
-Binary classifier Bayesian in multiclassification mission,(contrast with GussianNB)
+Binary classifier Bayesian in multiclassification mission,(contrast with GaussianNB)
+
+Accuracy:
+>GaussianNB:0.9600
+>
+>CustomBeyesian:0.9800
 
 **Dataset:UCI-iris(150 samples)**
 ***

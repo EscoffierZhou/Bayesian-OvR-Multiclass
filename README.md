@@ -14,7 +14,8 @@ $$p(x) = \frac{1}{(2\pi)^{\frac{d}{2}}|\sum|^\frac{1}{2}}e^{[-\frac{1}{2}(x-\mu)
 
 Likelihood Calculation:
 
-$$p(x|w) = \frac{1}{(2\pi)^{\frac{d}{2}}|\sum_\omega|^{\frac{1}{2}}}e^{([-\frac{1}{2}(x-\mu_\omega)^T\sum^{-1}_{\omega}(x-\mu_\omega)])}$$
+
+$$p(x|w) = \frac{1}{(2\pi)^{\frac{d}{2}}|\sum_\omega|^{\frac{1}{2}}}e^{([-\frac{1}{2}(x-\mu_\omega)^T\sum^{-1}_ {\omega}(x-\mu_\omega)])}$$
 
 (Where $\sum_\omega$ represents the covariance matrix, $|\sum_\omega|$ represents the determinant of the covariance matrix, and $\sum^{-1}_{\omega}$ is the inverse of the covariance matrix).
 
